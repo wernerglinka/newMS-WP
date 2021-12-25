@@ -1,14 +1,13 @@
-# A new Metalsmith starter
+# A new Metalsmith/Wordpress starter
 
-This is my personal Metalsmith sandbox site. I am periodically experimenting with new features. 
+This is work-in-progress. The end goal is to use WP are the source for all site content, including menus etc.
 
 Features:
   - Uses Nunjucks for templating
-  - Pages are build from Markdown and Wordpress
+  - Pages are build with content from Wordpress
   - Page transitions and page prefetch with Swup
   - Page backgrounds with Gradient Magic CSS
   - Uses Feather icons
   - Images are progressive/responsive and lazy loaded
   - Images hosted on Cloudinary
 
-Site is live at https://newmsnunjucks.netlify.app/
